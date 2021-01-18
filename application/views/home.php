@@ -6,7 +6,7 @@
   <section id="photostack-1" class="photostack photostack-start">
     <div>
       <figure>
-        <a href="#" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/QUIENES.PNG" alt="img01"/></a>
+        <a href="<?=base_url()?>sobre-nosotros" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/QUIENES.PNG" alt="img01"/></a>
         <figcaption>
           <h2 class="photostack-title"></h2>
         </figcaption>
@@ -18,7 +18,7 @@
         </figcaption>
       </figure>
       <figure>
-        <a href="#" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/CALIDAD.PNG" alt="img03"/></a>
+        <a href="<?=base_url()?>calidad" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/CALIDAD.PNG" alt="img03"/></a>
         <figcaption>
           <h2 class="photostack-title"></h2>
         </figcaption>

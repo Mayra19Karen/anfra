@@ -13,8 +13,22 @@ class Welcome extends CI_Controller {
 	
 
 	}
-	public function hola()
+	public function about()
 	{
-		echo base_url();
+		$this->load->view('includes/header');
+		$this->load->view('includes/navbar');
+		$this->load->view('about');
+		$this->load->view('includes/footer');
+	
+
+	}
+	public function calidad()
+	{
+		$this->load->view('includes/header');
+		$this->load->view('includes/navbar');
+		$this->load->view('calidad');
+		$this->load->view('includes/footer');
+	
+
 	}
 }

@@ -519,7 +519,7 @@ sup {
 }
 
 #blogwrap{
-	background:url(../img/blog-bg.jpg) no-repeat center top;
+	background:url(../img/about/calidad.PNG) no-repeat center top;
 	margin-top:0;
 	padding-top:220px;
 	text-align:center;
@@ -541,7 +541,7 @@ sup {
 #blogwrap h1 {
 	font-weight: 400;
 	font-size: 50px;
-	color: white;
+	color: rgb(255, 255, 255);
 	text-align: center;
 }
 

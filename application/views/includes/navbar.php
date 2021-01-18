@@ -9,7 +9,7 @@
       <li><a href="#menu1">Menu</a></li>
     </ul>
     <nav id="menu1" class="active">
-      <a href="index.html">
+      <a href="<?=base_url()?>sobre-nosotros">
 		    <span class="subtitle">Sobre nosotros, misión y valores.</span>
 		    ¿Quiénes somos?
 		  </a>
@@ -17,7 +17,7 @@
 		    <span class="subtitle">Amplio y detallado catálogo</span>
 		    Nuestros servicios
 		  </a>
-      <a href="works.html">
+      <a href="<?=base_url()?>calidad">
 		    <span class="subtitle">Sobre nuestra calidad de servicio</span>
 		   	Calidad de servicio
 		  </a>
