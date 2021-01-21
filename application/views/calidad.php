@@ -11,7 +11,7 @@
     </div>ffffsssss
   </div>
 <<
-  <div class="container mt3">
+  <div class="container mt3">aaa
     <div class="row">
       <div class="col-lg-4 col-md-4 centered presentation">
         <img class="img-circle" src="<?=base_url()?>assets/img/about/calidad2.PNG" height="100px" width="100px" alt="">
