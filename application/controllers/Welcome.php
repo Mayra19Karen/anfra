@@ -18,6 +18,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('includes/header');
 		$this->load->view('includes/navbar');
 		$this->load->view('about');
+		$this->load->view('includes/volver');
 		$this->load->view('includes/footer');
 	
 
@@ -27,8 +28,32 @@ class Welcome extends CI_Controller {
 		$this->load->view('includes/header');
 		$this->load->view('includes/navbar');
 		$this->load->view('calidad');
+		$this->load->view('includes/volver');
 		$this->load->view('includes/footer');
-	
+	}
 
+	public function clientes()
+	{
+		$this->load->view('includes/header');
+		$this->load->view('includes/navbar');
+		$this->load->view('clients');
+		$this->load->view('includes/volver');
+		$this->load->view('includes/footer');
+	}
+	public function contact()
+	{
+		$this->load->view('includes/header');
+		$this->load->view('includes/navbar');
+		$this->load->view('contact');
+		$this->load->view('includes/volver');
+		$this->load->view('includes/footer');
+	}
+	public function services()
+	{
+		$this->load->view('includes/header');
+		$this->load->view('includes/navbar');
+		$this->load->view('servicios');
+		$this->load->view('includes/volver');
+		$this->load->view('includes/footer');
 	}
 }

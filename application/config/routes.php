@@ -55,3 +55,7 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['sobre-nosotros'] = 'welcome/about';
 $route['calidad'] = 'welcome/calidad';
+$route['nuestros-clientes'] = 'welcome/clientes';
+$route['contacto'] = 'welcome/contact';
+$route['catalogo'] = 'welcome/services';
+

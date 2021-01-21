@@ -21,12 +21,12 @@
 		    <span class="subtitle">Sobre nuestra calidad de servicio</span>
 		   	Calidad de servicio
 		  </a>
-      <a href="about.html">
+      <a href="<?=base_url()?>nuestros-clientes">
 		    <span class="subtitle">Algunos de nuestros clientes</span>
 		    Clientes
 		  </a>
-      <a href="services.html">
-		    <span class="subtitle">Solicitar algun diseño</span>
+      <a href="<?=base_url()?>nuestros-clientes">
+		    <span class="subtitle">Enviarnos un mensaje y/o localizarnos</span>
 		    Contacto
 		  </a>
     </nav>

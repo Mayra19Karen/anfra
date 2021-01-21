@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <h1>HABLEMOS DE.... 
-<br/> CALIDAD</h1>
+          <br/> CALIDAD</h1>
         </div>
       </div>
     </div>

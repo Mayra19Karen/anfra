@@ -1,6 +1,4 @@
-<section id="contact" class="section-bg-color ">
-    
-  </section>
+
 
   <section id="end" class="section-footer">
     <div class="container centered ptb">

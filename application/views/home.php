@@ -24,13 +24,13 @@
         </figcaption>
       </figure>
       <figure>
-        <a href="#" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/CLIENTES.PNG" alt="img04"/></a>
+        <a href="<?=base_url()?>nuestros-clientes" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/CLIENTES.PNG" alt="img04"/></a>
         <figcaption>
           <h2 class="photostack-title"></h2>
         </figcaption>
       </figure>
       <figure>
-        <a href="#" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/CONTACTO.PNG" alt="img05"/></a>
+        <a href="<?=base_url()?>contacto" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/CONTACTO.PNG" alt="img05"/></a>
         <figcaption>
           <h2 class="photostack-title"></h2>
         </figcaption>
