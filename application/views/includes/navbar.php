@@ -13,7 +13,7 @@
 		    <span class="subtitle">Sobre nosotros, misión y valores.</span>
 		    ¿Quiénes somos?
 		  </a>
-      <a href="index2.html">
+      <a href="<?=base_url()?>catalogo">
 		    <span class="subtitle">Amplio y detallado catálogo</span>
 		    Nuestros servicios
 		  </a>

@@ -52,7 +52,7 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('includes/header');
 		$this->load->view('includes/navbar');
-		$this->load->view('servicios');
+		$this->load->view('works');
 		$this->load->view('includes/volver');
 		$this->load->view('includes/footer');
 	}

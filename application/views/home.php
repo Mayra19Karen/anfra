@@ -12,7 +12,7 @@
         </figcaption>
       </figure>
       <figure>
-        <a href="#" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/SERVICIOS.PNG" alt="img02"/></a>
+        <a href="<?=base_url()?>catalogo" class="photostack-img"><img src="<?=base_url()?>assets/img/menuimg/SERVICIOS.PNG" alt="img02"/></a>
         <figcaption>
           <h2 class="photostack-title"></h2>
         </figcaption>
