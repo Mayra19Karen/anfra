@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 | Please see user guide for more info:
 | https://codeigniter.com/user_guide/helpers/smiley_helper.html
-|
+|Un cambio que no deberia enviarse
 */
 $smileys = array(
 
