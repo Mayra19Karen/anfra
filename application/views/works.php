@@ -1082,6 +1082,6 @@
         <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since, when an unknown ristique senectus et netus.</p>
       </div>
     </div>
-    <!-- /row -->
+    <!-- /row s -->
 
   </div>
