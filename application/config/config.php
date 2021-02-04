@@ -11,6 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | WITH a trailing slash:
 |
 |	http://example.com/
+http://example.com/test ON
 |
 | WARNING: You MUST set this value!
 |
