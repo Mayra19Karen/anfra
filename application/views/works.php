@@ -993,7 +993,7 @@
                 <div class="cbp-l-caption-title">CUADERNO DE ESCRITURA EMPRESARIAL</div>
               </div>
             </div>
-          </div>..
+          </div>
         </a>
       </li>
       <li class="cbp-item cuadernos">
