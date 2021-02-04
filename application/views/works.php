@@ -1058,29 +1058,107 @@
 
   <div class="container mt2">
     <div class="row presentation">
-      <div class="col-lg-1 col-md-1 centered">
-        <h2>119</h2>
-      </div>
       <div class="col-lg-3 col-md-3">
-        <h4>PHOTOGRAPHY</h4>
-        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since, when an unknown ristique senectus et netus.</p>
+        <p>
+        <H4>PLOTTEO GRAN FORMATO</h4>
+        Contamos con equipo de ultima tecnología con tintas de máxima calidad, así aseguramos
+            la mejor calidad al momento de impresión, incluso en gran formato.
+        </p>
       </div>
 
-      <div class="col-lg-1 col-md-1 centered">
-        <h2>28</h2>
-      </div>
+      
       <div class="col-lg-3 col-md-3">
-        <h4>WEB DESIGN</h4>
-        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since, when an unknown ristique senectus et netus.</p>
+        <p>
+        <H4>PLOTTEO DE CORTE</h4>
+
+        Corte de vinil, textiles, suajes y más. Material de primera calidad y gran variedad
+        </p>
       </div>
 
-      <div class="col-lg-1 col-md-1 centered">
-        <h2>227</h2>
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>TABLEROS EMPRESARIALES</h4>
+        Contamos con diferentes material y bases para cualquier necesidad. Totalmente personalizados, corcho, magnéticos, plastificados.         </p>
       </div>
       <div class="col-lg-3 col-md-3">
-        <h4>LOGOS</h4>
-        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since, when an unknown ristique senectus et netus.</p>
+        <p>        
+        <H4>OFFSET</h4>
+        Formatos por millar, rápida producción por un costo accesible, desde notas
+hasta revistas, una tinta hasta selección de color y tintas especiales, de igual modo manejamos laminados y barnices y suajes       
+        </div>
+
+    </div>
+    <!-- /row s -->
+
+    <div class="row presentation">
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>SELLOS DE GOMA</h4>
+        Manejamos goma de alta calidad y maquinas marca Trodat, ......
+líder en el mercado, autoentintables y con fechador. También hacemos sellos de madera que se ajustan a cualquier medida
+        </p>
       </div>
+
+      
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>CREDENCIALIZACIÓN</h4>
+        Impresión de tarjetas PVC full color con larga duración y efectos de seguridad (perlado),
+listones portagafetes personalizados y micas, también contamos con yoyos con goteado de resina
+        </p>
+      </div>
+
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>IMPRESIONES DIGITALES</H4>
+        Alta definición en impresión, ideal para tarjetas,
+        impresiones tamaño tabloide, invitaciones y más,
+        contamos con aplicación de barniz uv y laminado
+        brillante y mate para mejores acabados. Conveniente para pocas cantidades  
+        </p>     
+      </div>
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>ETIQUETAS COMERCIALES</H4>
+        Etiquetas para productos, códigos de barra, etiquetas con suajes especiales, etiquetas con
+hologramas, reflejantes, fotoluminicentes, etiquetas para piso con recubrimiento para mayor duración. 
+        </p>
+       </div>
+    </div>
+    <!-- /row s -->
+
+    <div class="row presentation">
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>FOTOGRABADO EN ALUMINIO</H4>
+        Contamos con placas de aluminio para su fotograbado, desde una pieza
+hasta las que necesites. Disponible con diferentes colores de tintas. Son ideales para placas de identificación.
+        </p>
+      </div>
+
+      
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>SERIGRAFÍA</H4>
+        La máxima calidad en todo tipo de Serigrafía, nuestro fuerte
+son las tarjetas de presentación impresas con tintas de gran
+calidad para un acabado impecable, también contamos con etiquetas, textiles y promocionales.
+        </p>
+      </div>
+
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <H4>ROTULACIÓN MANUAL</H4>
+        Rotulación en piso, pared, metal, acanalo o liso. Cualquier tamaño, cualquier necesidad. 
+        </p>     
+      </div>
+      <div class="col-lg-3 col-md-3">
+        <p>
+        <h4>CUADERNOS/AGENDAR</h4>
+        Desde la impresión de los interiores hasta el empastado o
+engargolado, personalizamos los cuadernos a tus necesidades, manuales, agendas, blocks de notas, etc.
+        </p>
+       </div>
     </div>
     <!-- /row s -->
 
