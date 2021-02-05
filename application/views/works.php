@@ -22,7 +22,7 @@
         <div data-filter=".offset" class="cbp-filter-item">
         OFFSET
         </div>
-        <div data-filter=".sellos" class="cbp-filter-item-active cbp-filter-item">
+        <div data-filter=".sellos" class="cbp-filter-item">
         SELLOS DE GOMA
         </div>
         <div data-filter=".credencial" class="cbp-filter-item">
