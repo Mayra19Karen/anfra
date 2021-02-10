@@ -1160,6 +1160,7 @@ engargolado, personalizamos los cuadernos a tus necesidades, manuales, agendas, 
         </p>
        </div>
     </div>
-    <!-- /row s -->
+    <!-- /rows -->
+    <!-- Este es un cambio traido desde la rama prueba -->
 
   </div>
